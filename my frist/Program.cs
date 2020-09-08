@@ -11,7 +11,8 @@ namespace _myfrist
     {
         static void Main(string[] args)
         {
-
+            //第一个
+            //chengxu
             int p = 1;
             double s = 1.23;
             string str = "超人";
@@ -19,6 +20,7 @@ namespace _myfrist
 
              Console.WriteLine(str);
              Console.ReadKey();
+            
         }
 
     }
